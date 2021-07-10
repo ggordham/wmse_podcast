@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<show_list>
+  <show>
+    <name>Buzz's Garage</name>
+    <sname>buzz</sname>
+    <description>Spinning hard hits for anyone outside the status quo.  Surface noise from my personal music collection by snarly punks, guitar hustlers, raunchy weirdos, chooglin’ rockers, musical outcasts and trash rockers from the US and elsewhere.  Giving credit where it’s due to historic proto-punks, garage rockers and guitar instro bands.  Not a show, but a party and everyone’s invited. </description>
+    <sdesc>WMSE Monday nights DJ Buzz plays garage rock.</sdesc>
+    <day>Monday</day>
+    <start_time>1800</start_time>
+    <length>300</length> <!-- format is hours, minutes with no breaks -->
+  </show>
+  <show>
+      <name>Squid Inc.</name>
+      <sname>squid</sname>
+      <description>Squidney Incorporated will cover everything from early 80s hardcore, to Brit pop, to new and just released tunes. There will be something for everyone.  The musical journey  will have a theme that  somehow ties it all together.
+          Be it the Smashing Pumpkins leading into FulFlej, because FulFlej were on the Pumpkin’s label Scratchie Records, or the New Pornographers followed by Neil Young because they are both Canadian.  Your challenge is to listen and find the connection.</description>
+    <sdesc>WMSE Wednasday afternoon DJ Squid plays rock.</sdesc>
+    <day>Wednesday</day>
+    <start_time>1200</start_time>
+    <length>300</length>
+    <old_start>
+        <end_date>06-12-2019</end_date>
+        <start_time>1230</start_time>
+        <length>230</length>
+    </old_start>
+  </show>
+  <show>
+      <name>City Rock Showgram</name>
+      <sname>city</sname>
+      <description> City Rock Showgram follows the two weeks on, one week off model. Rich is on for two weeks, then Matt. Repeat.
+Rich Mars
+The City Rock Showgram, simply stated, is a show and it is a program that has little or nothing — or perhaps everything — to do with the city of music. Best summary is alternative for geezers. I play old-geezer acts like Reed and Richman and Waits but constantly on the lookout for new gems.
+Matt Schoeffler
+Matt sits in the captain’s chair every third Wednesday solely to remind you about dirty basement shows, mail order catalogs and the sweet, sweet smell of licorice pizza.
+    </description>
+    <sdesc>WMSE Wednasday night DJs Rich Mars and Matt Schoeffler trade off playing rock.</sdesc>
+    <day>Wednesday</day>
+    <start_time>1800</start_time>
+    <length>300</length>
+  </show>
+  <show>
+      <name>Poundcake Punk</name>
+      <sname>poundcake</sname>
+      <description>Poundcake Punk is alternated every other week between Drew and Maggie. But regardless which host is on the air, this Thursday morning punk show is bound to get you going; a 3-hour throwdown of high octane punk rock music.
+Drew focuses a lot on the newer names in punk, but also pays homage to the greats who forged punk’s identity.
+Maggie plays a mix of early 2000s pop-punk, local punk, and third wave ska.
+Tune into every Thursday at 6am to hear a mix of some essential favorites and some lesser-known, obscure punk rock!
+     </description>
+    <sdesc>WMSE Thursday morning DJs Drew and Maggie trade off playing punk rock.</sdesc>
+    <day>Thuursday</day>
+    <start_time>0600</start_time>
+    <length>300</length>
+  </show>
+  <show>
+      <name>Von Munz Vinyl Variety Show</name>
+      <sname>vonmunz</sname>
+      <description>My favorite DJ of all time would be John Peel, of BBC radio fame (Wolfman Jack clocks in as a CLOSE second). John Peel took chances. He played stuff that he liked on air, in hopes that you would enjoy it as well.
+Human emotion trumps algorithms.
+Life has surface noise.
+I spin the gambit on WMSE, from 50′s through now. All vinyl.
+No algorithms. All GO!
+    </description>
+    <sdesc>WMSE Thursday afternoon DJ wVon Munz playing vinal records.</sdesc>
+    <day>Thuursday</day>
+    <start_time>1200</start_time>
+    <length>300</length>
+  </show>
+  <show>
+      <name>Radio Drill Time</name>
+      <sname>drilltime</sname>
+      <description>Historic, themed-based indie/rare music. Audio art gallery with sound curator. Spanning the ages. EXAMPLE: Glam Rock 70’s, German Post Punk 1979-82, ALL Kraftwerk, American Power Pop 1975-1984, the complete history of King Crimson, Darkwave electronic, electro-pop, EBM, the history of Kraut Rock, MKE Punk 77-81, and so on.
+      </description>
+    <sdesc>WMSE station manager Tom Crawford provides an audio history leason.</sdesc>
+    <day>Thursday</day>
+    <start_time>1800</start_time>
+    <length>300</length>
+  </show>
+
+  <url_base>https://wmsearchive.blob.core.windows.net/</url_base>
+  <site>http://www.wmse.org</site>
+  <email>wmse@msoe.edu</email>
+  <company>WMSE Milwaukee Frotnier Radio</company>
+  <logo>https://www.wmse.org/wp-content/themes/wmse-new/images/header/logo.svg</logo>
+  <start_date>Jan 1st, 2019</start_date>
+</show_list>

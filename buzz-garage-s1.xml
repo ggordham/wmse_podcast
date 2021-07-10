@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+  <channel>
+    <link>http://www.wmse.org</link>
+    <language>en-us</language>
+    <copyright>&#xA9;2019</copyright>
+    <webMaster>wmse@msoe.edu (WMSE Business Office)</webMaster>
+    <managingEditor>wmsemembership@msoe.edu (WMSE Membership Department)</managingEditor>
+    <image>
+      <url>https://www.wmse.org/wp-content/themes/wmse-new/images/footer/xbanner.jpg.pagespeed.ic.NBiH1gX4aLoomI6AI2xz.webp</url>
+      <title>WMSE Milwaukee Frotnier Radio</title>
+      <link>http://www.wmse.org</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>WMSE Radio</itunes:name>
+      <itunes:email>wmse@msoe.edu</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Music"> </itunes:category>
+    <itunes:keywords>radio station, college radio, garage rock</itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://www.YourSite.com/ImageSize300X300.jpg" />
+    <atom:link href="http://www.YourSite.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 10 Feb 2019 00:00:00 CST</pubDate>
+    <title>Buzz's Garage</title>
+    <itunes:author>WMSE</itunes:author>
+    <description>
+    Spinning hard hits for anyone outside the status quo.  Surface noise from my personal music collection by snarly punks, guitar hustlers, raunchy weirdos, chooglin’ rockers, musical outcasts and trash rockers from the US and elsewhere.  Giving credit where it’s due to historic proto-punks, garage rockers and guitar instro bands.  Not a show, but a party and everyone’s invited.
+    </description>
+    <itunes:summary>
+    Spinning hard hits for anyone outside the status quo.  Surface noise from my personal music collection by snarly punks, guitar hustlers, raunchy weirdos, chooglin’ rockers, musical outcasts and trash rockers from the US and elsewhere.  Giving credit where it’s due to historic proto-punks, garage rockers and guitar instro bands.  Not a show, but a party and everyone’s invited.
+    </itunes:summary>
+    <itunes:subtitle>WMSE Monday nights DJ Buzz plays garage rock.</itunes:subtitle>
+    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 CST</lastBuildDate>
+      <item>
+        <title>Buzz's Garage Mon Feb 4th, 2019</title>
+        <description>Buzz's Garage Mon Feb 4th, 2019 </description>
+        <itunes:summary>Buzz's Garage Mon Feb 4th, 2019 </itunes:summary>
+        <itunes:subtitle>Buzz's Garage Mon Feb 4th, 2019 </itunes:subtitle>
+        <itunesu:category itunesu:code="102107" />
+        <enclosure url="https://wmsearchive.blob.core.windows.net/2019/01/01-28-2019-18-00.mp3" type="audio/mpeg" length="1" />
+        <guid>https://wmsearchive.blob.core.windows.net/2019/01/01-28-2019-18-00.mp3</guid>
+        <itunes:duration>3:00:00</itunes:duration>
+        <itunes:image href="https://www.wmse.org/wp-content/uploads/2013/04/buzzfez.jpg"/>
+        <pubDate>Mon, 04 Feb 2019 21:00:00 CST</pubDate>
+      </item>
+    </channel>
+</rss>
