@@ -8,6 +8,7 @@
     <day>Monday</day>
     <start_time>1800</start_time>
     <length>300</length> <!-- format is hours, minutes with no breaks -->
+    <logo>https://www.wmse.org/wp-content/uploads/2013/04/buzzfez-235x300.jpg</logo>
   </show>
   <show>
       <name>Squid Inc.</name>
@@ -16,13 +17,9 @@
           Be it the Smashing Pumpkins leading into FulFlej, because FulFlej were on the Pumpkin’s label Scratchie Records, or the New Pornographers followed by Neil Young because they are both Canadian.  Your challenge is to listen and find the connection.</description>
     <sdesc>WMSE Wednasday afternoon DJ Squid plays rock.</sdesc>
     <day>Wednesday</day>
-    <start_time>1200</start_time>
-    <length>300</length>
-    <old_start>
-        <end_date>06-12-2019</end_date>
-        <start_time>1230</start_time>
-        <length>230</length>
-    </old_start>
+    <start_time>1230</start_time>
+    <length>230</length>
+    <logo>https://www.wmse.org/wp-content/uploads/2013/03/sid-300x225.jpg</logo>
   </show>
   <show>
       <name>City Rock Showgram</name>
@@ -37,6 +34,7 @@ Matt sits in the captain’s chair every third Wednesday solely to remind you ab
     <day>Wednesday</day>
     <start_time>1800</start_time>
     <length>300</length>
+    <logo>https://www.wmse.org/wp-content/uploads/2013/04/Kirchen-300x169.jpg</logo>
   </show>
   <show>
       <name>Poundcake Punk</name>
@@ -47,7 +45,7 @@ Maggie plays a mix of early 2000s pop-punk, local punk, and third wave ska.
 Tune into every Thursday at 6am to hear a mix of some essential favorites and some lesser-known, obscure punk rock!
      </description>
     <sdesc>WMSE Thursday morning DJs Drew and Maggie trade off playing punk rock.</sdesc>
-    <day>Thuursday</day>
+    <day>Thursday</day>
     <start_time>0600</start_time>
     <length>300</length>
   </show>
@@ -61,9 +59,10 @@ I spin the gambit on WMSE, from 50′s through now. All vinyl.
 No algorithms. All GO!
     </description>
     <sdesc>WMSE Thursday afternoon DJ wVon Munz playing vinal records.</sdesc>
-    <day>Thuursday</day>
+    <day>Thursday</day>
     <start_time>1200</start_time>
     <length>300</length>
+    <logo>https://www.wmse.org/wp-content/uploads/2013/04/vonmunz-225x300.jpg</logo>
   </show>
   <show>
       <name>Radio Drill Time</name>
@@ -74,12 +73,13 @@ No algorithms. All GO!
     <day>Thursday</day>
     <start_time>1800</start_time>
     <length>300</length>
+    <logo>https://www.wmse.org/wp-content/themes/wmse-new/images/footer/banner.jpg</logo>
   </show>
 
   <url_base>https://wmsearchive.blob.core.windows.net/</url_base>
   <site>http://www.wmse.org</site>
   <email>wmse@msoe.edu</email>
   <company>WMSE Milwaukee Frotnier Radio</company>
-  <logo>https://www.wmse.org/wp-content/themes/wmse-new/images/header/logo.svg</logo>
+  <logo>https://www.wmse.org/wp-content/themes/wmse-new/images/footer/banner.jpg</logo>
   <start_date>Jan 1st, 2019</start_date>
 </show_list>
